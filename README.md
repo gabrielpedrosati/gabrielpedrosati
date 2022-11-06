@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Sobre mim
+- 💻 Atualmente sou programador backend e estou migrando para a área de Engenharia de Dados.
+- 🛠️Principais Linguagens: Python, SQL e PySpark.
+- 📚 Áreas de trabalho: ETL, Big Data, Cloud, Data Engineering, Data Pipelines.
+
+----
+#### Aonde me encontrar
+<p align='left'>
+   <a href="https://www.linkedin.com/in/gabrielpedrosati" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
+   Email: gabrielpedrosati@gmail.com
