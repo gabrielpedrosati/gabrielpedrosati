@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📚 Áreas de trabalho: ETL, Big Data, Cloud, Data Engineering, Data Pipelines.
 
 ----
-#### Aonde me encontrar
+#### Me encontre em
 <p align='left'>
-   <a href="https://www.linkedin.com/in/gabrielpedrosati" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;
-   Email: gabrielpedrosati@gmail.com
+   <a href="https://www.linkedin.com/in/gabrielpedrosati" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin-icon-2.svg"></a>&nbsp;&nbsp;<br>
+Email: gabrielpedrosati@gmail.com
