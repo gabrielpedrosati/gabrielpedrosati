@@ -1,6 +1,6 @@
 
 ### Sobre mim
-- 💻 Atualmente sou programador backend e estou migrando para a área de Engenharia de Dados.
+- 💻 Engenheiro de dados.
 - 🛠️Principais Linguagens: Python, SQL e PySpark.
 - 📚 Áreas de trabalho: ETL, Big Data, Cloud, Data Engineering, Data Pipelines e Web Scraping.
 
