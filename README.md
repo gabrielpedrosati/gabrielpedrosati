@@ -1,5 +1,5 @@
 
-### Sobre mim
+### About me
 - 💻 Data Engineer.
 - 🛠️Programming Languages: Python, SQL.
 - 📚 Main Activities: ETL, Big Data, Cloud Computing, Data Engineering, Data Pipelines e Web Scraping.
